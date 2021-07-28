@@ -1,5 +1,6 @@
 # MATLAB Course (Beginner)
 A beginner guide for MATLAB programming
+This course is held by [Scientific Society of Mechanical Engineering (Iran University of Science & Technology)](https://t.me/iust_ssme)
 date: August 2021
 
 # Documents
