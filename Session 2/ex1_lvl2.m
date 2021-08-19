@@ -1,6 +1,6 @@
 clc; clear;
 
-% Read data
+% Read the data form data.xlsx
 data = xlsread('data');
 
 % Calc. BMI
