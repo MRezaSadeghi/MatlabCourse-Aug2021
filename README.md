@@ -1,7 +1,7 @@
 # MATLAB Course (Beginner)
 A beginner guide for MATLAB programming\
 This course is held by [Scientific Society of Mechanical Engineering (Iran University of Science & Technology)](https://t.me/iust_ssme)\
-Date: August 2021
+(August 2021)
 
 # Main Topics
 - What is MATLAB?
@@ -22,3 +22,5 @@ The above topic have been chosen based on [TutorialsPoint](https://www.tutorials
 # Documents
 - [Slides](https://docs.google.com/presentation/d/1RdxVTrT4SOb0qR1IPfPoQx6mODhUblBtX6dCxV0ShnE/edit?usp=sharing) - This document will be updated routinely.
 - [Introduction to MATLAB for Engineering Students - Houcque (Notrhwestern University)](https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf)
+
+[Feedback](https://forms.gle/TPaV3FCgZZpKZxkRA)
